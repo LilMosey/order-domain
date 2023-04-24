@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/order-domain.iml" filepath="$PROJECT_DIR$/.idea/order-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-domain-runtime/order-domain-runtime.iml" filepath="$PROJECT_DIR$/order-domain-runtime/order-domain-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-domain-sdk/order-domain-sdk.iml" filepath="$PROJECT_DIR$/order-domain-sdk/order-domain-sdk.iml" />
+    </modules>
+  </component>
+</project>
